@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nicolonsky/nicolonsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there 👋
+
+- 🥷 I'm an endpoint consultant in the Microsoft ecosystem and passionately curious about all topics related to identity, endpoint management and security
+- 🔭 I really love to build new things, automate existing processes and build useful helpers
+- 🌱 I’m currently learning KQL, go and building Integrations from scratch for Home Assistant
+- 👉‍ Learn more and find me online at [my blog](https://tech.nicolonsky.ch) and on [medium](https://nicolasuter.medium.com/) as well
+
+![nicolonsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolonsky&count_private=true&show_icons=true)
+![nicolonsky's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolonsky&hide=javascript,html,css&layout=compact&langs_count=8)
