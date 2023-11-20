@@ -17,7 +17,7 @@ Hi there 👋
 
 - 🥷 I'm an endpoint consultant in the Microsoft ecosystem and passionately curious about all topics related to identity, endpoint management and security
 - 🔭 I really love to build new things, automate existing processes and build useful helpers
-- 🌱 I’m currently learning KQL, go and building Integrations from scratch for Home Assistant
+- 🌱 I’m currently learning Microsoft Sentinel and Microsoft security
 - 👉‍ Learn more and find me online at [my blog](https://tech.nicolonsky.ch) and on [medium](https://nicolasuter.medium.com/) as well
 
 ![nicolonsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolonsky&count_private=true&show_icons=true)
