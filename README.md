@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 Hi there 👋
 
-- 🥷 I'm an endpoint consultant in the Microsoft ecosystem and passionately curious about all topics related to identity, endpoint management and security
+- 🥷 I'm a security consultant with a strong background in topics around endpoint management (from configuration manager to Intune via co-management), identity and security
 - 🔭 I really love to build new things, automate existing processes and build useful helpers
-- 🌱 I’m currently learning Microsoft Sentinel and Microsoft security
+- 🌱 I'm currently focusing on security topics around the Microsoft security stack and have a big passion for identity threat detection and response
 - 👉‍ Learn more and find me online at [my blog](https://tech.nicolonsky.ch) and on [medium](https://nicolasuter.medium.com/) as well
 
 ![nicolonsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolonsky&count_private=true&show_icons=true)
